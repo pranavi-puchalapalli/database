@@ -1,8 +1,8 @@
 Genome,Domain,Phylum,class,order,family,genus,species ,GC content,genome length
-MGYG000000001,Bacteria,Firmicutes_A,Clostridia,Peptostreptococcale,Peptostreptococcaceae,GCA-900066495,GCA-900066495 sp902362365,2824.0,3221717
-MGYG000000002,Bacteria,Firmicutes_A,Clostridia,Lachnospirales,Lachnospiraceae,Blautia_A,Blautia_A faecis,42.53,4441003
-MGYG000000003,Bacteria,Firmicutes_A,Clostridia,Oscillospirales,Ruminococcaceae,Anaerotruncus,Anaerotruncus colihominis,54.07,3707250
-MGYG000000004,Bacteria,Firmicutes_A,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Terrisporobacter,Terrisporobacter glycolicus_A,28.57,3932530
+MGYG000000001,Bacteria,Firmicutes_A,Clostridia,Peptostreptococcale,Peptostreptococcaceae,GCA-900066495,GCA-900066495 sp902362365,2824.00%,"3,221,717 "
+MGYG000000002,Bacteria,Firmicutes_A,Clostridia,Lachnospirales,Lachnospiraceae,Blautia_A,Blautia_A faecis,42.53,"44,41,003"
+MGYG000000003,Bacteria,Firmicutes_A,Clostridia,Oscillospirales,Ruminococcaceae,Anaerotruncus,Anaerotruncus colihominis,54.07,"37,07,250"
+MGYG000000004,Bacteria,Firmicutes_A,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Terrisporobacter,Terrisporobacter glycolicus_A,28.57,"39,32,530"
 MGYG000000005,Bacteria,Firmicutes_A,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Terrisporobacter,glycolicus_A,28.57,3932530
 MGYG000000006,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,xylosus,32.64,2823639
 MGYG000000007,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,intestinalis,35.49,2017471
@@ -28,7 +28,7 @@ MGYG000000026,Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostrid
 MGYG000000027,Bacteria,Firmicutes_C,Negativicutes,Selenomonadales,Selenomonadaceae,Mitsuokella,jalaludinii,58.15,2395159
 MGYG000000028,Bacteria,Firmicutes_A,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostipes,hadrus_A,36.64,2459729
 MGYG000000029,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,finegoldii,42.15,4418465
-MGYG000000030,Bacteria,Firmicutes_A,Clostridia,Lachnospirales,Lachnospiraceae,CAG-603,sp900066105,34.0,3027291
+MGYG000000030,Bacteria,Firmicutes_A,Clostridia,Lachnospirales,Lachnospiraceae,CAG-603,sp900066105,34,3027291
 MGYG000000031,Bacteria,Firmicutes_A,Clostridia,Lachnospirales,Lachnospiraceae,Blautia_A,sp900066205,43.88,3675824
 MGYG000000032,Bacteria,Firmicutes_A,Clostridia,Lachnospirales,Lachnospiraceae,Hungatella,effluvii,48.87,6979496
 MGYG000000033,Bacteria,Firmicutes_A,Clostridia,Monoglobales_A,UBA1381,CAG-41,sp900066215,38.2,3012737
