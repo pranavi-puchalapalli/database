@@ -4,8 +4,6 @@ streamlit
 pandas
 numpy
 matplotlib
-# requirements.txt
-
 streamlit
 pandas
 numpy
