@@ -10,3 +10,8 @@ numpy
 matplotlib
 seaborns
 cikit-learn
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
