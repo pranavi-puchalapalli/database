@@ -28,7 +28,7 @@ def load_reference_data():
     """
     try:
         # GitHub URL for the EBI Metagenomics Sequential Genomes TSV file
-        url = "https://raw.githubusercontent.com/pranavi-puchalapalli/database/main/ebi_metagenomics_sequential_genomes.tsv"
+        url = "ebi_metagenomics_sequential_genomes.tsv"
         response = requests.get(url)
         
         if response.status_code == 200:
