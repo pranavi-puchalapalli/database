@@ -4,4 +4,11 @@ streamlit
 pandas
 numpy
 matplotlib
-scikit-learn
+# requirements.txt
+
+streamlit
+pandas
+numpy
+matplotlib
+seaborns
+cikit-learn
